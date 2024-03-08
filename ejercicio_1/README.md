@@ -17,4 +17,4 @@ S= si el punto esta sobre un eje
 ![Diagrama de flujo](Diagrama.png "diagrama de flujo")
 
 # CONSTRUCCION
-este programa esta escrito en markdown :D
+pankeis
